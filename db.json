@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "335454072",
+      "cateId": "2",
+      "name": "Sản phẩm 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-cc2f4.appspot.com/o/images%2Fproduct-1.jpg?alt=media&token=610ae855-d371-4ab4-862f-1a6added498e",
+      "price": "123",
+      "priceSale": "321",
+      "shortDes": "Sản phẩm",
+      "des": "Okie",
+      "statusI": 1
+    },
+    {
+      "id": "146939722",
+      "cateId": "3",
+      "name": "đâsdasdasd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-cc2f4.appspot.com/o/images%2Fproduct-8.jpg?alt=media&token=04e42df6-186e-40c2-8867-4cc2a8a427bb",
+      "price": "3213123",
+      "priceSale": "3123123",
+      "shortDes": "32132",
+      "des": "13123",
+      "statusI": 1
+    }
+  ],
+  "status": [
+    {
+      "id": "1",
+      "name": "Còn hàng"
+    },
+    {
+      "id": "2",
+      "name": "Hết hàng"
+    }
+  ],
+  "categories": []
+}
